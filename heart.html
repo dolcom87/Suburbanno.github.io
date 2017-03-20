@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<link rel="shortcut icon" href="http://static.tumblr.com/jjefkbc/QW3n9xmql/kris.gif" type="image/x-icon">
+<body>
+<div class="heart">
+  <div class="square"></div>
+  <div class="circle top"></div>
+  <div class="circle left"></div>
+</div>
+</body>
+<style>
+.heart {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  margin: 100px;
+  background: #ff4351;
+  animation: pulse 1s infinite alternate;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #ff4351;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: absolute;
+  background: #ff4351;
+}
+
+.top {
+  top: 100px;
+}
+
+.left {
+  left: 100px;
+}
+
+.heart {
+  width:100px;
+	height:100px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-50px;
+	margin-left:-50px;
+}
+
+@keyframes pulse {
+  0%   {transform: scale(0.9) rotate(-135deg);}
+  100% {transform: scale(1.1) rotate(-135deg);}
+}
+</style>
+</html>
