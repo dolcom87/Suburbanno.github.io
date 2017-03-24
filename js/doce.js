@@ -24,7 +24,8 @@ window.onload = function() {
         'Oi Amor ♥',
         'Tudo bem?',
         'Espero que sim haha',
-        'Estava preparando algo simples porém com carinho para esse momento',
+        'Espero não está me precipitando...',
+        'Mas.....🌝',
         ' Você gostaria de namorar comigo?',
         'Hahaha'
     ]
