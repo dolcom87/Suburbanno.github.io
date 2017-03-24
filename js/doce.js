@@ -21,7 +21,7 @@ window.onload = function() {
     }
 
     var messages = [
-        'Oi Amor ♥ 🖤',
+        'Oi Amor ♥ ',
         'Tudo bem?',
         'Espero que sim haha',
         'Espero não estar me precipitando...',
