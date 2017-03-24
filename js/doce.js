@@ -21,12 +21,12 @@ window.onload = function() {
     }
 
     var messages = [
-        'Oi Amor🖤',
+        'Oi Amor ♥',
         'Tudo bem?',
-        'Então...',
-        'Gostaria de te fazer um pedido...',
-        'Quer namorar comigo?',
-        '🌝'
+        'Espero que sim haha',
+        'Então né, estava preparando algo simples porém com carinho para esse momento....',
+        ' Você gostaria de namorar comigo?',
+        'Hahaha'
     ]
 
     var getFontSize = function() {
